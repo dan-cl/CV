@@ -27,7 +27,7 @@ Robust planning has been critical on all of the projects I have worked on. Times
 + Supervising and developing junior engineers.
 + Manage 25+ staff, assign work schedules, set goals, manage performance, communicate expectations and address their needs. 
 + Winner of the Concrete Institute of Australia's Award for Excellence 2015 for the "Honoring the Avenue" project.
-+ Achieved all production targets for contracts, meeting client deadlines, incurring zero liquidated damages.
++ Achieve all production targets for contracts, meeting client deadlines, incurring zero liquidated damages.
 + Manage external stakeholders.
 
 
@@ -39,7 +39,7 @@ Robust planning has been critical on all of the projects I have worked on. Times
 + Management of the design and construction of railway infrastructure projects.
 + Ensured compliance with specifications.
 + Liaised with clients and suppliers.
-+ Manage subcontractors and mentored site engineers. 
++ Managed subcontractors and mentored site engineers. 
 
 
 ##Education
