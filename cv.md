@@ -20,8 +20,8 @@ Robust planning has been critical on all of the projects I have worked on. Times
 
 
 ##Employment
-####North-Vic Constructions Pty Ltd, Victoria, Australia (March 2012 to April 2016)
-####Project Manager
+**North-Vic Constructions Pty Ltd, Victoria, Australia (March 2012 to April 2016)**  
+**Project Manager**
 
 + Managing the construction of infrastructure projects with a value of up to $5M.
 + Supervising and developing junior engineers.
@@ -33,8 +33,8 @@ Robust planning has been critical on all of the projects I have worked on. Times
 
 
 
-####Balfour Beatty Rail Plc, Uk (2006 - 2011)
-####Civil Engineer
+**Balfour Beatty Rail Plc, Uk (2006 - 2011)**  
+**Civil Engineer**
 
 + Management of the design and construction of railway infrastructure projects.
 + Ensured compliance with specifications.
@@ -43,10 +43,13 @@ Robust planning has been critical on all of the projects I have worked on. Times
 
 
 ##Education
-###Nottingham Trent University, Nottingham, UK
+####Nottingham Trent University, Nottingham, UK
 BEng (Hons) Civil Engineering 2:1
 
-###Norwich City College, Norwich, UK
+####Norwich City College, Norwich, UK
 A-levels in Mathematics, Physics, Electronics and Economics
+
+##Interests
+Camping, Cycling, & Photography
 
 
